@@ -32,9 +32,5 @@ HTML,
 CSS,
 JavaScript,
 OpenWeatherMap API
-
-
-
-
 JavaScript
 OpenWeatherMap API
