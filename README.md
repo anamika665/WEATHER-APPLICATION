@@ -32,5 +32,13 @@ HTML,
 CSS,
 JavaScript,
 OpenWeatherMap API
+
+##OUTPUT
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/11931019-269f-4688-a72c-d238395f131e" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/ee1cba41-96da-42b0-a365-bddc99d12df3" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/6779ab0e-7a55-497f-8ec3-feda1cc29896" />
 JavaScript
 OpenWeatherMap API
