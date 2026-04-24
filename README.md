@@ -19,19 +19,22 @@ This project is a simple and responsive Weather Web Application that fetches rea
 
 ##Features 
 
-1.Search weather by city name
-2.Displays temperature in Celsius
-3.Shows weather condition (clear, cloudy, etc.)
-4.Displays humidity level
-5.Simple and user-friendly UI
-6.Responsive design
+1.Search weather by city name,
+2.Displays temperature in Celsius,
+3.Shows weather condition (clear, cloudy, etc.),
+4.Displays humidity level,
+5.Simple and user-friendly UI,
+6.Responsive design,
 
 ##Technologies Used 
 
-HTML
-CSS
-JavaScript
+HTML,
+CSS,
+JavaScript,
 OpenWeatherMap API
-CSS
+
+
+
+
 JavaScript
 OpenWeatherMap API
